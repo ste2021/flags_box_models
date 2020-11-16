@@ -1,0 +1,62 @@
+body {
+  background: rgb(93, 180, 58);
+  background: radial-gradient(circle, rgba(93, 180, 58, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(236, 246, 249, 1) 100%);
+  margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titulo {
+  margin: 20px;
+  margin-right: 10px;
+}
+
+.caixa {
+  box-sizing: border-box;
+}
+
+.bandeira {
+  background-color: white;
+  margin: 20px;
+  border: 1px solid black;
+  width: 1000px;
+  height: 600px;
+}
+
+.vermelha {
+  border: 0.5px solid black;
+  background: red;
+  width: 66%;
+  height: 50%;
+  position: relative;
+  left: 34%;
+}
+
+.limpar {
+  clear: both;
+}
+
+.verde {
+  border: 0.5px solid black;
+  background: green;
+  width: 66%;
+  height: 50%;
+  position: relative;
+  left: 34%;
+}
+
+.esquerda {
+  float: left;
+}
+
+footer {
+  text-align: center;
+  color: rgb(236, 225, 236);
+  text-align: center;
+  background-color: rgb(56, 2, 2);
+  width: 100%;
+  height: auto;
+  padding: 05px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
