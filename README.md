@@ -2,8 +2,8 @@
 
 ## Making Flags using Box Models in CSS/HTML 
 
-### Flag Italy Flag: Italy on au by KDDI Type D-1
+### Flag Italy 
 
-### Flag Japan
+### Flag Japan 🇯🇵
 
 ### Flag Madagascar 
