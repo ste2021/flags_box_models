@@ -2,7 +2,7 @@
 
 ## Making Flags using Box Models in CSS/HTML 
 
-### Flag Italy 	:it:
+### Flag Italy 	:flag_italy:
 
 ### Flag Japan
 
